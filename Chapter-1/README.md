@@ -20,6 +20,7 @@ The OS will be built for the x86 architecture, running on 32 bits, and compatibl
 * x86, 32 bit architecture
 * Boot with Grub
 * Kind of UNIX style
+* * Kind of modular system for drivers
 * Multitasking
 * ELF executable in userland
 * Modules (accessible in userland using /dev/...) :
